@@ -1,55 +1,6 @@
 {
   "sites": [
      {
-      "key": "csp_appysv2_爱酷影视",
-      "name": "酷酷",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "key": "csp_xpath_猫群自维护库qiumi",
-      "name": "球迷🏀",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"
-    },
-    {
-      "key": "csp_xpath_猫群自维护源03",
-      "name": "在线",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hk1.monika.love/tvba/x/main/zxzj.js"
-    },
-    {
-      "key": "csp_xpath_01-猫群自维护源42",
-      "name": "Coke",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/tvba/x/main/coke.js"
-    },
-    {
-      "key": "libvio",
-      "name": "libvio🐞",
-      "type": 1,
-      "api": "http://pandown.pro/maoys/libvio.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
        "key": "csp_NaNa",
       "name": "👒 七七",
       "type": 3,
