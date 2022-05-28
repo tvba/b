@@ -2,6 +2,16 @@
   "sites": [
      {
        "key": "csp_NaNa",
+      "name": "小明原版刻录版-【pglblb】",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable": 0,
+      "ext": "سبعة وسبعة"
+    },
+     {
+       "key": "csp_NaNa",
       "name": "👒 七七",
       "type": 3,
       "api": "csp_ColaCat",
