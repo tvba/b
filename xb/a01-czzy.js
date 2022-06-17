@@ -19,7 +19,7 @@
   "lianjieqian": "qianoo.cn",
   "lianjiehou": "\"",
   "sousuoqian": "/xssearch?q=",
-  "sousuohou": "",
+  "sousuohou": "&limit=500",
   "sousuohouzhui": "/movie/",
   "ssmoshi": "1",
   "sousuoshifouercijiequ": "0",
